@@ -24,6 +24,8 @@ libgtk-x11-2.0.so.0. On Ubuntu/Debian, you can install/verify it by doing:
 .. code-block:: bash
 
     sudo apt-get install libc6 libstdc++6 libgcc1 libgtk2.0-0 libasound2 libxrender1
+    
+If you want to render PDF files you need to install the CUPS package under Linux.
 
 Installation of SlimerJS
 ------------------------
